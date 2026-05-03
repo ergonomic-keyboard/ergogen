@@ -1,11 +1,13 @@
 module.exports = {
     alps: require('./alps'),
     button: require('./button'),
+    cherry_ulp: require('./cherry_ulp'),
     choc: require('./choc'),
     chocmini: require('./chocmini'),
     diode: require('./diode'),
     jstph: require('./jstph'),
     jumper: require('./jumper'),
+    mountinghole: require('./mountinghole'),
     mx: require('./mx'),
     oled: require('./oled'),
     omron: require('./omron'),
